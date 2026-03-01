@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Laboratory Glassware",           "slug": "laboratory-glassware",             "description": "All types of regular and customised, Class 'A', Class 'B' and NABL certified glassware",  "icon": "🧪" },
+  { "id": 2, "name": "Laboratory Plasticware",          "slug": "laboratory-plasticware",            "description": "All types of Class 'A', Class 'B' and NABL certified plasticware",                        "icon": "🧫" },
+  { "id": 3, "name": "Laboratory Silicaware & Quartzware", "slug": "laboratory-silicaware-quartzware", "description": "All types of Silica and Quartz crucibles",                                          "icon": "⚗️" },
+  { "id": 4, "name": "Laboratory Instruments",          "slug": "laboratory-instruments",            "description": "Autoclaves, Incubators, Hot Air Ovens, Centrifuge Machines and more",                   "icon": "🔬" },
+  { "id": 5, "name": "Analytical Instruments",          "slug": "analytical-instruments",            "description": "RT-PCR, ICP, ICP-MS, GC, GC-MS, HPLC, HPTLC and more",                               "icon": "📡" },
+  { "id": 6, "name": "Safety Aids",                     "slug": "safety-aids",                       "description": "PPE Kit, Blue Nitrile Gloves, Purple Nitrile Gloves, Latex Gloves",                    "icon": "🦺" },
+  { "id": 7, "name": "Specialty Segment Chemicals",     "slug": "specialty-segment-chemicals",       "description": "Specialty segment chemicals for various laboratory applications",                        "icon": "🧬" },
+  { "id": 8, "name": "Special Chemicals",               "slug": "special-chemicals",                 "description": "Special chemicals including HPLC grade solvents and certified reference standards",      "icon": "💊" }
+]

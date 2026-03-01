@@ -1,0 +1,94 @@
+.card {
+  background: var(--clr-white);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform var(--transition), box-shadow var(--transition);
+  border: 1px solid var(--clr-border);
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* Image */
+.imageWrap {
+  position: relative;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  background: linear-gradient(135deg, #eef2f8, #dde4ed);
+}
+.image {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s cubic-bezier(0.4,0,0.2,1);
+}
+.card:hover .image { transform: scale(1.06); }
+
+.imagePlaceholder {
+  width: 100%; height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-sm);
+  color: var(--clr-text-muted);
+}
+.placeholderIcon { font-size: 2.8rem; opacity: 0.5; }
+.placeholderText { font-size: 0.78rem; text-align: center; opacity: 0.6; }
+
+/* Category badge */
+.badge {
+  position: absolute;
+  top: var(--sp-md); left: var(--sp-md);
+  background: var(--clr-primary);
+  color: var(--clr-white);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.65rem;
+  border-radius: 100px;
+}
+
+/* Body */
+.body {
+  padding: var(--sp-lg);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--clr-primary);
+  line-height: 1.3;
+}
+
+.description {
+  font-size: 0.88rem;
+  color: var(--clr-text-muted);
+  line-height: 1.6;
+  flex: 1;
+}
+
+/* Footer */
+.footer {
+  padding: var(--sp-sm) var(--sp-lg) var(--sp-lg);
+}
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--clr-primary);
+  letter-spacing: 0.02em;
+  transition: gap var(--transition), color var(--transition);
+}
+.link:hover { color: var(--clr-accent); gap: 10px; }

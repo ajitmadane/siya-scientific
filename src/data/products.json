@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "category": "Laboratory Glassware",
+    "categoryId": 1,
+    "name": "Volumetric Flask Class A",
+    "shortDescription": "High precision Class 'A' borosilicate glass volumetric flasks with NABL certification.",
+    "description": "Manufactured from borosilicate glass 3.3, these volumetric flasks conform to IS/ISO standards. Available in Class A and Class B variants with NABL certification on request. Ideal for accurate volumetric analysis in pharmaceutical and research labs.",
+    "specs": [
+      { "label": "Material", "value": "Borosilicate Glass 3.3" },
+      { "label": "Class", "value": "A & B" },
+      { "label": "Capacity Range", "value": "10 mL – 2000 mL" },
+      { "label": "Certification", "value": "NABL available" },
+      { "label": "Standard", "value": "IS 915 / ISO 1042" }
+    ],
+    "image": "/images/products/volumetric-flask.jpg",
+    "tags": ["glassware", "volumetric", "class-a"]
+  },
+  {
+    "id": 2,
+    "category": "Laboratory Glassware",
+    "categoryId": 1,
+    "name": "Borosilicate Beaker",
+    "shortDescription": "Heavy duty borosilicate beakers with printed graduation markings.",
+    "description": "Griffin style beakers manufactured from borosilicate glass 3.3. Graduated with white enamel printing. Resistant to thermal shock, chemicals and acids. Suitable for heating, mixing and measuring liquids.",
+    "specs": [
+      { "label": "Material", "value": "Borosilicate Glass 3.3" },
+      { "label": "Style", "value": "Griffin / Berzelius" },
+      { "label": "Capacity Range", "value": "5 mL – 5000 mL" },
+      { "label": "Graduation", "value": "White enamel printed" },
+      { "label": "Standard", "value": "ISO 3819" }
+    ],
+    "image": "/images/products/beaker.jpg",
+    "tags": ["glassware", "beaker"]
+  },
+  {
+    "id": 3,
+    "category": "Laboratory Glassware",
+    "categoryId": 1,
+    "name": "Erlenmeyer Flask",
+    "shortDescription": "Conical Erlenmeyer flasks in borosilicate glass, narrow and wide mouth variants.",
+    "description": "Erlenmeyer (conical) flasks suitable for mixing, heating and culture work. Available in narrow mouth (NM) and wide mouth (WM) variants. Manufactured from borosilicate glass 3.3 conforming to ISO standards.",
+    "specs": [
+      { "label": "Material", "value": "Borosilicate Glass 3.3" },
+      { "label": "Variants", "value": "Narrow Mouth, Wide Mouth" },
+      { "label": "Capacity Range", "value": "50 mL – 5000 mL" },
+      { "label": "Standard", "value": "ISO 24450" }
+    ],
+    "image": "/images/products/erlenmeyer.jpg",
+    "tags": ["glassware", "flask"]
+  },
+  {
+    "id": 4,
+    "category": "Laboratory Glassware",
+    "categoryId": 1,
+    "name": "Burette Class A",
+    "shortDescription": "Precision Class A borosilicate burettes with PTFE stopcock.",
+    "description": "Class A burettes with Schellbach stripe for easy reading. PTFE stopcock ensures chemical resistance. Available with or without stopcock. Ideal for titration in pharmaceutical and analytical labs.",
+    "specs": [
+      { "label": "Material", "value": "Borosilicate Glass 3.3" },
+      { "label": "Class", "value": "A" },
+      { "label": "Capacity Range", "value": "10 mL – 100 mL" },
+      { "label": "Stopcock", "value": "PTFE" },
+      { "label": "Standard", "value": "ISO 385" }
+    ],
+    "image": "/images/products/burette.jpg",
+    "tags": ["glassware", "burette", "class-a"]
+  },
+  {
+    "id": 5,
+    "category": "Laboratory Plasticware",
+    "categoryId": 2,
+    "name": "Polypropylene Measuring Cylinder",
+    "shortDescription": "Class A PP measuring cylinders, autoclavable and chemical resistant.",
+    "description": "Polypropylene measuring cylinders are lightweight, unbreakable, autoclavable at 121°C and highly resistant to most chemicals. Graduated with transparent windows for easy reading. Available in Class A.",
+    "specs": [
+      { "label": "Material", "value": "Polypropylene (PP)" },
+      { "label": "Class", "value": "A & B" },
+      { "label": "Capacity Range", "value": "10 mL – 2000 mL" },
+      { "label": "Autoclavable", "value": "Yes (121°C)" }
+    ],
+    "image": "/images/products/measuring-cylinder-pp.jpg",
+    "tags": ["plasticware", "measuring-cylinder"]
+  },
+  {
+    "id": 6,
+    "category": "Laboratory Plasticware",
+    "categoryId": 2,
+    "name": "Polypropylene Volumetric Flask",
+    "shortDescription": "Class A PP volumetric flasks with leak-proof stoppers.",
+    "description": "Polypropylene volumetric flasks are ideal where chemical resistance and breakage prevention are priorities. Class A accuracy. Transparent mark-line and leak-proof PP stopper included.",
+    "specs": [
+      { "label": "Material", "value": "Polypropylene" },
+      { "label": "Class", "value": "A" },
+      { "label": "Capacity Range", "value": "25 mL – 1000 mL" },
+      { "label": "Stopper", "value": "Polypropylene" }
+    ],
+    "image": "/images/products/volumetric-flask-pp.jpg",
+    "tags": ["plasticware", "volumetric"]
+  },
+  {
+    "id": 7,
+    "category": "Laboratory Silicaware & Quartzware",
+    "categoryId": 3,
+    "name": "Silica Crucible",
+    "shortDescription": "High purity fused silica crucibles for high-temperature applications.",
+    "description": "Manufactured from 99.9% pure fused silica. Suitable for high-temperature fusion, ashing and ignition. Excellent thermal shock resistance. Available in various sizes.",
+    "specs": [
+      { "label": "Material", "value": "Fused Silica 99.9%" },
+      { "label": "Max Temp", "value": "1200°C" },
+      { "label": "Capacity Range", "value": "10 mL – 100 mL" },
+      { "label": "Application", "value": "Fusion, ashing, ignition" }
+    ],
+    "image": "/images/products/silica-crucible.jpg",
+    "tags": ["silicaware", "crucible"]
+  },
+  {
+    "id": 8,
+    "category": "Laboratory Silicaware & Quartzware",
+    "categoryId": 3,
+    "name": "Quartz Crucible",
+    "shortDescription": "Ultra-pure quartz crucibles for semiconductor and analytical applications.",
+    "description": "Premium quartz crucibles manufactured from ultra-pure synthetic quartz. Used in semiconductor, optical fiber and analytical applications requiring extreme purity and thermal stability up to 1650°C.",
+    "specs": [
+      { "label": "Material", "value": "Ultra-pure Quartz" },
+      { "label": "Max Temp", "value": "1650°C" },
+      { "label": "Purity", "value": ">99.99% SiO₂" },
+      { "label": "Application", "value": "Semiconductor, analytical" }
+    ],
+    "image": "/images/products/quartz-crucible.jpg",
+    "tags": ["quartzware", "crucible"]
+  },
+  {
+    "id": 9,
+    "category": "Laboratory Instruments",
+    "categoryId": 4,
+    "name": "Autoclave",
+    "shortDescription": "Vertical and horizontal autoclaves for sterilisation of lab equipment and media.",
+    "description": "Stainless steel autoclaves with digital temperature and pressure controls. Suitable for sterilisation of culture media, glassware and surgical instruments. Available in vertical and horizontal configurations in various chamber volumes.",
+    "specs": [
+      { "label": "Chamber", "value": "SS 316L" },
+      { "label": "Temperature Range", "value": "105°C – 135°C" },
+      { "label": "Pressure", "value": "Up to 2.5 kgf/cm²" },
+      { "label": "Capacity", "value": "20 L – 500 L" },
+      { "label": "Control", "value": "Digital PID" }
+    ],
+    "image": "/images/products/autoclave.jpg",
+    "tags": ["instruments", "sterilisation"]
+  },
+  {
+    "id": 10,
+    "category": "Laboratory Instruments",
+    "categoryId": 4,
+    "name": "Incubator",
+    "shortDescription": "Bacteriological and BOD incubators with precise temperature control.",
+    "description": "Bacteriological incubators and BOD incubators for culture and biochemical applications. Double-walled SS interior, microprocessor-based PID temperature control, and uniform temperature distribution. Available in various capacities.",
+    "specs": [
+      { "label": "Type", "value": "Bacteriological / BOD" },
+      { "label": "Temperature Range", "value": "5°C – 60°C" },
+      { "label": "Capacity", "value": "28 L – 700 L" },
+      { "label": "Control", "value": "Microprocessor PID" },
+      { "label": "Uniformity", "value": "±0.5°C" }
+    ],
+    "image": "/images/products/incubator.jpg",
+    "tags": ["instruments", "incubator"]
+  },
+  {
+    "id": 11,
+    "category": "Laboratory Instruments",
+    "categoryId": 4,
+    "name": "Hot Air Oven",
+    "shortDescription": "Forced air circulation hot air ovens for drying and sterilisation.",
+    "description": "Forced air circulation ovens suitable for drying, baking and sterilisation of glassware and equipment. Double-walled powder-coated exterior and SS interior with digital temperature controller and timer.",
+    "specs": [
+      { "label": "Type", "value": "Forced Air Circulation" },
+      { "label": "Temperature Range", "value": "Ambient +10°C – 300°C" },
+      { "label": "Capacity", "value": "28 L – 500 L" },
+      { "label": "Control", "value": "Digital PID + Timer" }
+    ],
+    "image": "/images/products/hot-air-oven.jpg",
+    "tags": ["instruments", "oven"]
+  },
+  {
+    "id": 12,
+    "category": "Laboratory Instruments",
+    "categoryId": 4,
+    "name": "Centrifuge Machine",
+    "shortDescription": "Bench-top and high-speed centrifuges for separation applications.",
+    "description": "Bench-top centrifuges with brushless DC motor, microprocessor controls, and imbalance detection. Available in low-speed, high-speed, and refrigerated models. Suitable for clinical, pharmaceutical and research applications.",
+    "specs": [
+      { "label": "Max Speed", "value": "Up to 20,000 RPM" },
+      { "label": "Max RCF", "value": "Up to 30,000 × g" },
+      { "label": "Temperature", "value": "Refrigerated available" },
+      { "label": "Motor", "value": "Brushless DC" },
+      { "label": "Control", "value": "Microprocessor" }
+    ],
+    "image": "/images/products/centrifuge.jpg",
+    "tags": ["instruments", "centrifuge"]
+  },
+  {
+    "id": 13,
+    "category": "Analytical Instruments",
+    "categoryId": 5,
+    "name": "RT-PCR System",
+    "shortDescription": "Real-Time PCR systems for quantitative nucleic acid analysis.",
+    "description": "Real-Time PCR (qPCR) systems for accurate quantification of DNA/RNA. Features fast thermal cycling, multiple fluorescence channels, and intuitive software. Used in molecular diagnostics, gene expression and pathogen detection.",
+    "specs": [
+      { "label": "Block Format", "value": "96-well / 384-well" },
+      { "label": "Channels", "value": "4–6 fluorescence channels" },
+      { "label": "Ramp Rate", "value": "Up to 6°C/sec" },
+      { "label": "Detection", "value": "Real-time fluorescence" },
+      { "label": "Software", "value": "PC-based analysis" }
+    ],
+    "image": "/images/products/rtpcr.jpg",
+    "tags": ["analytical", "molecular-biology"]
+  },
+  {
+    "id": 14,
+    "category": "Analytical Instruments",
+    "categoryId": 5,
+    "name": "HPLC System",
+    "shortDescription": "High Performance Liquid Chromatography for pharmaceutical and chemical analysis.",
+    "description": "HPLC systems for separation and quantification of compounds in pharmaceutical, food and environmental samples. Includes isocratic and gradient pump, auto-sampler, column oven and UV/DAD detector.",
+    "specs": [
+      { "label": "Flow Rate", "value": "0.001 – 10 mL/min" },
+      { "label": "Pressure", "value": "Up to 600 bar" },
+      { "label": "Detector", "value": "UV, DAD, RI, FLD" },
+      { "label": "Injection", "value": "Manual / Auto-sampler" },
+      { "label": "Software", "value": "Chromatography Data System" }
+    ],
+    "image": "/images/products/hplc.jpg",
+    "tags": ["analytical", "chromatography"]
+  },
+  {
+    "id": 15,
+    "category": "Analytical Instruments",
+    "categoryId": 5,
+    "name": "GC-MS System",
+    "shortDescription": "Gas Chromatography-Mass Spectrometry for volatile compound identification.",
+    "description": "GC-MS systems combining gas chromatography with mass spectrometry detection. Used for identification and quantification of volatile and semi-volatile organic compounds in environmental, pharmaceutical and forensic analysis.",
+    "specs": [
+      { "label": "Scan Range", "value": "1.6 – 1090 m/z" },
+      { "label": "Scan Speed", "value": "Up to 20,000 u/sec" },
+      { "label": "Inlet", "value": "Split/Splitless" },
+      { "label": "Library", "value": "NIST mass spectral library" }
+    ],
+    "image": "/images/products/gcms.jpg",
+    "tags": ["analytical", "chromatography"]
+  },
+  {
+    "id": 16,
+    "category": "Analytical Instruments",
+    "categoryId": 5,
+    "name": "ICP-OES System",
+    "shortDescription": "Inductively Coupled Plasma Optical Emission Spectrometry for multi-element analysis.",
+    "description": "ICP-OES systems for rapid multi-element analysis of metals and non-metals in environmental, pharmaceutical and industrial samples. Simultaneous detection of up to 73 elements with excellent detection limits.",
+    "specs": [
+      { "label": "Wavelength Range", "value": "165 – 900 nm" },
+      { "label": "Elements", "value": "Up to 73 simultaneously" },
+      { "label": "Detection Limit", "value": "Sub ppb levels" },
+      { "label": "Plasma Power", "value": "700 – 1500 W" }
+    ],
+    "image": "/images/products/icp.jpg",
+    "tags": ["analytical", "spectroscopy"]
+  },
+  {
+    "id": 17,
+    "category": "Safety Aids",
+    "categoryId": 6,
+    "name": "PPE Kit",
+    "shortDescription": "Complete Personal Protective Equipment kits for laboratory and industrial use.",
+    "description": "Full PPE kits including coverall, face shield, gloves and shoe covers. Suitable for laboratory, pharmaceutical, cleanroom and industrial environments. Available in various protection levels and sizes.",
+    "specs": [
+      { "label": "Components", "value": "Coverall, Face shield, Gloves, Shoe covers" },
+      { "label": "Material", "value": "SMS / PE coated" },
+      { "label": "Sizes", "value": "S, M, L, XL, XXL" },
+      { "label": "Standard", "value": "EN 14126" }
+    ],
+    "image": "/images/products/ppe-kit.jpg",
+    "tags": ["safety", "ppe"]
+  },
+  {
+    "id": 18,
+    "category": "Safety Aids",
+    "categoryId": 6,
+    "name": "Blue Nitrile Gloves",
+    "shortDescription": "Powder-free blue nitrile examination gloves with excellent chemical resistance.",
+    "description": "Premium powder-free blue nitrile gloves offering superior chemical resistance, puncture resistance, and tactile sensitivity. Latex-free, suitable for people with latex allergies. AQL 1.5 certified.",
+    "specs": [
+      { "label": "Material", "value": "Nitrile" },
+      { "label": "Colour", "value": "Blue" },
+      { "label": "Powder", "value": "Powder-free" },
+      { "label": "Sizes", "value": "XS, S, M, L, XL" },
+      { "label": "AQL", "value": "1.5" },
+      { "label": "Pack Size", "value": "100 pcs/box" }
+    ],
+    "image": "/images/products/nitrile-gloves-blue.jpg",
+    "tags": ["safety", "gloves"]
+  },
+  {
+    "id": 19,
+    "category": "Safety Aids",
+    "categoryId": 6,
+    "name": "Purple Nitrile Gloves",
+    "shortDescription": "Heavy-duty purple nitrile gloves for chemotherapy and high-risk applications.",
+    "description": "Purple nitrile gloves specifically designed for handling chemotherapy drugs and other high-risk substances. ASTM D6978 tested. 30 cm extended cuff for additional protection. Double-gloving compatible.",
+    "specs": [
+      { "label": "Material", "value": "Nitrile" },
+      { "label": "Colour", "value": "Purple" },
+      { "label": "Length", "value": "30 cm extended cuff" },
+      { "label": "Standard", "value": "ASTM D6978 (Chemo rated)" },
+      { "label": "AQL", "value": "1.0" }
+    ],
+    "image": "/images/products/nitrile-gloves-purple.jpg",
+    "tags": ["safety", "gloves", "chemotherapy"]
+  },
+  {
+    "id": 20,
+    "category": "Specialty Segment Chemicals",
+    "categoryId": 7,
+    "name": "Huwa-San TR-50",
+    "shortDescription": "Ecological broad-spectrum non-toxic disinfectant based on hydrogen peroxide stabilised with colloidal silver.",
+    "description": "Huwa-San is an advanced German technology disinfectant based on hydrogen peroxide stabilised with colloidal silver. It is an ecological, non-toxic, broad-spectrum disinfectant effective against bacteria, viruses, fungi and spores. No harmful residues.",
+    "specs": [
+      { "label": "Active Ingredient", "value": "H₂O₂ stabilised with colloidal silver" },
+      { "label": "Concentration", "value": "50% H₂O₂" },
+      { "label": "Spectrum", "value": "Bacteria, Viruses, Fungi, Spores" },
+      { "label": "Residue", "value": "None" },
+      { "label": "Origin", "value": "German Technology" }
+    ],
+    "image": "/images/products/huwa-san.jpg",
+    "tags": ["chemicals", "disinfectant"]
+  },
+  {
+    "id": 21,
+    "category": "Specialty Segment Chemicals",
+    "categoryId": 7,
+    "name": "Whirl-Pak Sample Bags",
+    "shortDescription": "Sterile, leakproof polyethylene sample bags for laboratory sampling.",
+    "description": "Whirl-Pak sample bags made of polyethylene are designed to carry solids or liquids to a laboratory for testing. Strong, sterile, and leakproof. Available in various volumes with and without media. Ideal for food, water and environmental sampling.",
+    "specs": [
+      { "label": "Material", "value": "Polyethylene" },
+      { "label": "Sterile", "value": "Yes (gamma irradiated)" },
+      { "label": "Capacity", "value": "18 mL – 3000 mL" },
+      { "label": "Closure", "value": "Whirl-Pak wire closure" },
+      { "label": "Application", "value": "Food, water, environmental" }
+    ],
+    "image": "/images/products/whirlpak.jpg",
+    "tags": ["chemicals", "sampling"]
+  },
+  {
+    "id": 22,
+    "category": "Special Chemicals",
+    "categoryId": 8,
+    "name": "HPLC Grade Solvents",
+    "shortDescription": "Ultra-pure HPLC and LC-MS grade solvents for chromatographic analysis.",
+    "description": "HPLC grade solvents including Acetonitrile, Methanol, Ethanol, Isopropanol and water manufactured to the highest purity standards. UV transparent, low residue on evaporation, suitable for LC-MS applications.",
+    "specs": [
+      { "label": "Grade", "value": "HPLC / LC-MS / Spectroscopy" },
+      { "label": "Purity", "value": "≥99.9%" },
+      { "label": "UV Cutoff", "value": "As per ACS/ASTM" },
+      { "label": "Packaging", "value": "1 L, 2.5 L, 4 L bottles" }
+    ],
+    "image": "/images/products/hplc-solvents.jpg",
+    "tags": ["chemicals", "solvents"]
+  },
+  {
+    "id": 23,
+    "category": "Special Chemicals",
+    "categoryId": 8,
+    "name": "Reference Standards",
+    "shortDescription": "Certified reference materials and primary standards for analytical calibration.",
+    "description": "Certified reference materials (CRM) and working standards for pharmaceutical, environmental and food testing laboratories. Traceable to national and international standards. Includes organic, inorganic and microbiology standards.",
+    "specs": [
+      { "label": "Type", "value": "Organic, Inorganic, Microbiology" },
+      { "label": "Traceability", "value": "NIST / LGC / USP / EP" },
+      { "label": "Certificate", "value": "COA with uncertainty values" },
+      { "label": "Packaging", "value": "Ampoule / Vial" }
+    ],
+    "image": "/images/products/reference-standards.jpg",
+    "tags": ["chemicals", "standards"]
+  }
+]
